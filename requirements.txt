@@ -1,3 +1,7 @@
+setuptools
+wheel
+pip
+
 fastapi
 uvicorn
 sentence-transformers
